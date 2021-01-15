@@ -14,6 +14,7 @@ Having grown up on a farm in rural Mayo I've a particular interest in Ag Tech an
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python%20-%2300599C.svg?&style=for-the-badge&logo=python&logoColor=white&color=306998">
     <img src="https://img.shields.io/badge/MySQL%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=00758F">
+    <img src="https://img.shields.io/badge/Redis%20-%2300599C.svg?&style=for-the-badge&logo=redis&logoColor=white&color=D82C20">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
