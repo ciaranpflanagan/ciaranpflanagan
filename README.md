@@ -20,6 +20,7 @@ Having grown up on a farm in rural Mayo I've a particular interest in Ag Tech an
 
 <p>
     <img src="https://img.shields.io/badge/Vue%20-%2300599C.svg?&style=for-the-badge&logo=vue.js&logoColor=white&color=41B883">
+    <img src="https://img.shields.io/badge/Svelte%20-%2300599C.svg?&style=for-the-badge&logo=svelte&logoColor=white&color=aa1e1e">
     <img src="https://img.shields.io/badge/React%20-%2300599C.svg?&style=for-the-badge&logo=react&logoColor=white&color=61DBFB">
     <img src="https://img.shields.io/badge/Laravel%20-%2300599C.svg?&style=for-the-badge&logo=laravel&logoColor=white&color=F05340">
     <img src="https://img.shields.io/badge/Adonis%20-%2300599C.svg?&style=for-the-badge&logo=adonisjs&logoColor=white&color=220851">
