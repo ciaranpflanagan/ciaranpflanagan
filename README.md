@@ -1,8 +1,8 @@
 <img align='right' src="http://ciaran.cicisoft.net/img/Headshot-Aug-2019.jpg" width=200 style="margin: 10px;" /> 
 
-## 3rd Year Computer Science & Data Science ( UCD )
+## Final Year Computer Science & Data Science @ UCD
 
-### **Junior Developer @ Wolfeo**
+### **Web Developer @ Wolfeo**
 Avid web developer with experience delivering projects to clients as well as working in the startup enviornment. A keen cyclist and former competitive swimmer.   
 Having grown up on a farm in rural Mayo I've a particular interest in Ag Tech and it's potential.
 
