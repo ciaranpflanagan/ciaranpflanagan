@@ -3,7 +3,7 @@
 ## Final Year Computer Science & Data Science @ UCD
 
 ### **Web Developer @ Wolfeo**
-Avid web developer with experience delivering projects to clients as well as working in the startup enviornment. A keen cyclist and former competitive swimmer.   
+Avid web developer with experience delivering projects to clients as well as working in the startup environment. A keen cyclist and former competitive swimmer.   
 Having grown up on a farm in rural Mayo I've a particular interest in Ag Tech and it's potential.
 
 <br/>
