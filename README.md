@@ -1,9 +1,8 @@
 <img align='right' src="http://ciaran.cicisoft.net/img/Headshot-Aug-2019.jpg" width=200 style="margin: 10px;" /> 
 
-## Final Year Computer Science & Data Science @ UCD
+## Software Engineer @ Microsoft
 
-### **Web Developer @ Wolfeo**
-Avid web developer with experience delivering projects to clients as well as working in the startup environment. A keen cyclist and former competitive swimmer.   
+Avid developer with experience delivering projects to clients as well as working in the startup & big tech environment. A keen cyclist and former competitive swimmer.   
 Having grown up on a farm in rural Mayo I've a particular interest in Ag Tech and it's potential.
 
 <br/>
@@ -13,11 +12,15 @@ Having grown up on a farm in rural Mayo I've a particular interest in Ag Tech an
     <img src="https://img.shields.io/badge/PHP%20-%2300599C.svg?&style=for-the-badge&logo=php&logoColor=white&color=474A8A"/>
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python%20-%2300599C.svg?&style=for-the-badge&logo=python&logoColor=white&color=306998">
-    <img src="https://img.shields.io/badge/MySQL%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=00758F">
-    <img src="https://img.shields.io/badge/Redis%20-%2300599C.svg?&style=for-the-badge&logo=redis&logoColor=white&color=D82C20">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </p>
-
+<p>
+    <img src="https://img.shields.io/badge/MySQL%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=00758F">
+    <img src="https://img.shields.io/badge/Redis%20-%2300599C.svg?&style=for-the-badge&logo=redis&logoColor=white&color=D82C20">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
 <p>
     <img src="https://img.shields.io/badge/Vue%20-%2300599C.svg?&style=for-the-badge&logo=vue.js&logoColor=white&color=41B883">
     <img src="https://img.shields.io/badge/Svelte%20-%2300599C.svg?&style=for-the-badge&logo=svelte&logoColor=white&color=aa1e1e">
