@@ -1,35 +1,16 @@
 <img align='right' src="http://ciaran.cicisoft.net/img/Headshot-Aug-2019.jpg" width=200 style="margin: 10px;" /> 
 
 ## Software Engineer @ Microsoft
-Software Engineer at Microsoft with the Identity and Network Access Team in Dublin. Computer Science with Data Science graduate from UCD.
+Software Engineer at Microsoft with the Identity Directory Platform team in Dublin. Computer Science with Data Science graduate from UCD.
 
-Avid developer with experience delivering projects to clients as well as working in the startup & big tech environment. A keen cyclist and former competitive swimmer.   
-Having grown up on a farm in rural Mayo I've a particular interest in Ag Tech and it's potential.
+Outside of work I spend my time cycling the world or watching race cars go fast.
 
-<br/>
-<p style="text-align: center; margin-top: 20px;">
-    <img src="https://camo.githubusercontent.com/4249e852f14e86cf7cd636b15c041c93d2f0572b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532334637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"/>
-    <img src="https://img.shields.io/badge/TypeScript%20-%2300599C.svg?&style=for-the-badge&logo=typescript&logoColor=white&color=007acc">
-    <img src="https://img.shields.io/badge/PHP%20-%2300599C.svg?&style=for-the-badge&logo=php&logoColor=white&color=474A8A"/>
-    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python%20-%2300599C.svg?&style=for-the-badge&logo=python&logoColor=white&color=306998">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-</p>
-<p>
-    <img src="https://img.shields.io/badge/MySQL%20-%2300599C.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=00758F">
-    <img src="https://img.shields.io/badge/Redis%20-%2300599C.svg?&style=for-the-badge&logo=redis&logoColor=white&color=D82C20">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-</p>
-<p>
-    <img src="https://img.shields.io/badge/Vue%20-%2300599C.svg?&style=for-the-badge&logo=vue.js&logoColor=white&color=41B883">
-    <img src="https://img.shields.io/badge/Svelte%20-%2300599C.svg?&style=for-the-badge&logo=svelte&logoColor=white&color=aa1e1e">
-    <img src="https://img.shields.io/badge/React%20-%2300599C.svg?&style=for-the-badge&logo=react&logoColor=white&color=61DBFB">
-    <img src="https://img.shields.io/badge/Laravel%20-%2300599C.svg?&style=for-the-badge&logo=laravel&logoColor=white&color=F05340">
-    <img src="https://img.shields.io/badge/Express%20-%2300599C.svg?&style=for-the-badge&logo=express&logoColor=white&color=68A063">
-    <img src="https://img.shields.io/badge/Adonis%20-%2300599C.svg?&style=for-the-badge&logo=adonisjs&logoColor=white&color=220851">
-</p>
+### Projects
+<a href="https://stravacommits.com/">StravaCommits</a>: Your strava data displayed as a GitHub style commit graph.<br/>
+<a href="https://watthr.io/">watthr.io</a>: Easily track forecast your energy usage<br/>
+<a href="https://jolly-bush-0f04ea903.4.azurestaticapps.net/">Skyways</a>: Map & get stats for your flights -> reads AppInTheAir takeout data<br/>
+
+### Contact
 
 <p style="text-align: center; margin-top: 25px;">
     Feel free to reach out via the links below or shoot me an email!
