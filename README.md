@@ -1,7 +1,7 @@
 <img align='right' src="http://ciaran.cicisoft.net/img/Headshot-Aug-2019.jpg" width=200 style="margin: 10px;" /> 
 
 ## Software Engineer @ Microsoft
-Software Engineer at Microsoft with the Identity Directory Platform team in Dublin. Computer Science with Data Science graduate from UCD.
+Software Engineer at Microsoft with the Identity Directory Platform team in Redmond, WA. Computer Science with Data Science graduate from UCD.
 
 Outside of work I spend my time cycling the world or watching race cars go fast.
 
